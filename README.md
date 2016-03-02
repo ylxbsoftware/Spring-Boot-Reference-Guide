@@ -1,5 +1,5 @@
 # Spring-Boot-Reference-Guide
-Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
+Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》，fork自[https://github.com/qibaoguang/](https://github.com/qibaoguang/)
 
 说明：本文档针对的是最新版本：[1.3.0.BUILD-SNAPSHOT](http://docs.spring.io/spring-boot/docs/current-SNAPSHOT/reference/htmlsingle/#getting-started-installing-spring-boot)。
 
@@ -7,7 +7,7 @@ Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》
 
 Github：[https://github.com/qibaoguang/](https://github.com/qibaoguang/)
 
-GitBook : [Spring Boot参考指南](https://www.gitbook.com/book/qbgbook/spring-boot-reference-guide-zh/details)
+GitBook : [Spring Boot参考指南](https://www.gitbook.com/book/kaenry/spring-boot-reference-guide-zh/details)
 
 Email：qibaoguang@gmail.com
 
