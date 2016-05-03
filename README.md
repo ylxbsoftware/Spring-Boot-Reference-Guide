@@ -7,7 +7,7 @@ Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》，fork自
 
 Github：[https://github.com/qibaoguang/](https://github.com/qibaoguang/)
 
-GitBook : [Spring Boot参考指南](https://www.gitbook.com/book/kaenry/spring-boot-reference-guide-zh/details)（PS：因为发现原仓库在线阅读很多MD文件404，所以有此fork）
+GitBook : [Spring Boot参考指南](https://www.gitbook.com/book/kaenry/spring-boot-reference-guide/details)（PS：因为发现原仓库在线阅读很多MD文件404，所以有此fork）
 
 Email：qibaoguang@gmail.com
 
